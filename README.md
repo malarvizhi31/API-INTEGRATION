@@ -71,7 +71,9 @@ In this process, we have seen how to build a responsive webpage that fetches liv
 This fundamental technique can be extended to many different types of web applications, including news sites, financial trackers, sports scoreboards, and more. API integration enables websites to provide real-time, personalized, and dynamic content that adds significant value for users.
 By understanding how to work with public APIs, developers can create more interactive, modern, and feature-rich websites that respond to the user’s needs in real-time.
 
-OUTPUT
+OUTPUT:
+
+
 ![output](https://github.com/user-attachments/assets/bbc4fbd9-b6e1-4b86-8dc6-95339e8bad8c)
 
 
